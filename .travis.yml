@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+- 2.1
+
+install: gem install jekyll html-proofer jekyll-sitemap
+script: jekyll build --config _config_ci.yml && htmlproof ./_site --href-ignore "#,/https:\/\/www\.youtube\.com\/.*/,/http:\/\/www\.youtube\.com\/.*/"
+
+# branch whitelist
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
