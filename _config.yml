@@ -2,7 +2,7 @@
 title: Dave Screwing Around
 email: davemen@hotmail.com
 # description: 
-baseurl: "/case-studies" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://davemen.github.io" # the base hostname & protocol for your site
 twitter_username: davemen
 github_username:  davemen
