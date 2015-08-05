@@ -1,11 +1,11 @@
 # Site settings
-title: Partner Catalyst Team Case Studies
-email: sarasp@outlook.com
+title: Dave Screwing Around
+email: davemen@hotmail.com
 # description: 
 baseurl: "/case-studies" # the subpath of your site, e.g. /blog/
-url: http://catalystcode.github.io" # the base hostname & protocol for your site
-twitter_username: saraspalding
-github_username:  catalystcode
+url: http://davemen.github.io" # the base hostname & protocol for your site
+twitter_username: davemen
+github_username:  davemen
 encoding: utf-8
 
 # Build settings
