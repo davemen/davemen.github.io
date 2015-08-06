@@ -11,7 +11,8 @@ color: "blue"
 excerpt: This document provides an overview of the case study process and provides details about writing, reviewing, and publlishing case studies.  Any TED engineer who wants to write or review case studies will want to read this document to get started.
 ---
 
-##Introduction##
+## Introduction
+
 Today, I’m at Microsoft’s Worldwide Partner Conference in Orlando, Florida. When it comes to talking to our partners, what is top of mind for me is ensuring Microsoft empowers our partners’ success and profitability through innovation on our platform.  Today’s sessions focused upon a number of things that partners should be thinking about to continue driving success.  For my part of today’s conversation, I focused upon disruption and the transformative opportunities self-disruption can provide.
 
 In a world where technological and business model changes are accelerating, finding an opportunity to disrupt – a competitor, an industry or even your own company – is more achievable than at any point in history.  Over the last decade, change has come to every facet of life, from the way we exercise with wearables, to the ways we teach in schools with devices.  Change is ubiquitous.  Given the rate of change in technology, disruption is no longer an “if”, but a “when”.  So if disruption is unavoidable, businesses have two choices: be in the business of disruption – or be disrupted.
@@ -51,18 +52,18 @@ For growing companies like SalesForce, partnering with Microsoft ensures that ou
 Helping partners reinvent themselves to thrive against future challenges is one of the aspects of my job that makes it so rewarding. Partnering with companies across the entire company lifecycle, from startups to mature industry leaders, we get to participate in building the solutions that can disrupt these partners to future success. 
 
 In this pursuit, there are numerous resources Microsoft provides that are relevant for a company at any phase of the business lifecycle:
-•Microsoft Partner Network – It all starts here with MPN.  Become a Microsoft Partner and gain access to a broad suite of Microsoft resources.
-•MSDN – Microsoft’s Developer Network offers unparalleled access to tools and resources that a developer needs to build great software on the Microsoft platform.
-•Channel 9 – deep technical resources on topical subjects from Microsoft’s leading subject matter experts.  If you want to see videos of technology in action, this is the place.
-•Microsoft Virtual Academy – Want to learn more about Microsoft technology in a structured way?  MVA is a great resource for providing training on technical subjects to individuals and groups.
-•Microsoft’s Most Valuable Professionals – MVPs are technical leaders in their communities, bringing subject matter expertise on Microsoft technology to the local level.  You won’t find a better local resource for answering questions about Microsoft technology.
-•Events – We run thousands of events every year, in locations across the globe.  If there’s a topic you are interested in learning more about, the chance is that there is an event coming near you that will bring Microsoft’s subject matter experts to your doorstep.
-•Ideation Sessions and Hackfests – For partners who want to discover opportunities when building on the latest Microsoft technology, Envisioning Sessions bring partners and Microsoft together to explore thee, then Hackfests make these opportunities real, through sitting down and building solutions with a partner.
-•Microsoft Ventures and Accelerators – Ventures is Microsoft’s connection to the venture capital community, directly benefitting Microsoft’s startup partners.  Our accelerators and partner led accelerators provide mentorship and access to expertise, focused upon helping founders grow their businesses.
-•Microsoft Innovation Centers – With 105 MICs worldwide, there’s likely one near you.  MICs provide the facilities and resources for students and startups to come together, take advantage of unique Microsoft resources and build great businesses or solutions.
-•BizSpark – For startups, the easiest way to get access to a robust collection of Microsoft software and services, without cost.
-•Marketplaces - enhancing visibility and access to your solutions through customer marketplaces for Windows, Azure and Office.
-•Go To Market Support – My team is focused on providing the resources that ensure partner success after they go-to-market, not just when they are building solutions. 
+*Microsoft Partner Network – It all starts here with MPN.  Become a Microsoft Partner and gain access to a broad suite of Microsoft resources.
+*MSDN – Microsoft’s Developer Network offers unparalleled access to tools and resources that a developer needs to build great software on the Microsoft platform.
+*Channel 9 – deep technical resources on topical subjects from Microsoft’s leading subject matter experts.  If you want to see videos of technology in action, this is the place.
+*Microsoft Virtual Academy – Want to learn more about Microsoft technology in a structured way?  MVA is a great resource for providing training on technical subjects to individuals and groups.
+*Microsoft’s Most Valuable Professionals – MVPs are technical leaders in their communities, bringing subject matter expertise on Microsoft technology to the local level.  You won’t find a better local resource for answering questions about Microsoft technology.
+*Events – We run thousands of events every year, in locations across the globe.  If there’s a topic you are interested in learning more about, the chance is that there is an event coming near you that will bring Microsoft’s subject matter experts to your doorstep.
+*Ideation Sessions and Hackfests – For partners who want to discover opportunities when building on the latest Microsoft technology, Envisioning Sessions bring partners and Microsoft together to explore thee, then Hackfests make these opportunities real, through sitting down and building solutions with a partner.
+*Microsoft Ventures and Accelerators – Ventures is Microsoft’s connection to the venture capital community, directly benefitting Microsoft’s startup partners.  Our accelerators and partner led accelerators provide mentorship and access to expertise, focused upon helping founders grow their businesses.
+*Microsoft Innovation Centers – With 105 MICs worldwide, there’s likely one near you.  MICs provide the facilities and resources for students and startups to come together, take advantage of unique Microsoft resources and build great businesses or solutions.
+*BizSpark – For startups, the easiest way to get access to a robust collection of Microsoft software and services, without cost.
+*Marketplaces - enhancing visibility and access to your solutions through customer marketplaces for Windows, Azure and Office.
+*Go To Market Support – My team is focused on providing the resources that ensure partner success after they go-to-market, not just when they are building solutions. 
 
  
 
